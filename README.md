@@ -20,4 +20,4 @@ MIT (see LICENSE).
 
 ## Output
 
-The program writes entry.txt containing exactly 264 Unicode code points, UTF-8, with no trailing newline. The text stays within the competition's 1–280 code point limit.
+The program writes `entry.txt` containing exactly 264 Unicode code points, UTF-8, with no trailing newline, and the text stays within the competition's 1–280 code point limit.
